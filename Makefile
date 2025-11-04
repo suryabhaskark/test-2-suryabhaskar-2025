@@ -16,6 +16,8 @@ $(obj_files): %.o: %.c
 clean:
 	rm -f *.o stu-mng-sys
 
+#sample modification
+
 
 
 
